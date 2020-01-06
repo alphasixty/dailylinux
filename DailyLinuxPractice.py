@@ -29,7 +29,8 @@ _|
 
 ###########################################################################
 Just type in the command to match the description. This is like electronic
-flash cards to keep your mind sharp
+flash cards to keep your mind sharp. I hate forgetting commands. I hope
+you do too.
 ###########################################################################
 
 """)
